@@ -1,0 +1,161 @@
+Fri Mar 11 13:00:29 2022  
+Fri Mar 11 13:00:29 2022  
+Fri Mar 11 13:00:29 2022  Msieve v. 1.53 (SVN Unversioned directory)
+Fri Mar 11 13:00:29 2022  random seeds: 4e655959 a48571cc
+Fri Mar 11 13:00:29 2022  factoring 2112664634855999140031945945998785346946804826144846396410436155861557104011009549879696604291518474904522547 (109 digits)
+Fri Mar 11 13:00:29 2022  searching for 15-digit factors
+Fri Mar 11 13:00:29 2022  commencing quadratic sieve (109-digit input)
+Fri Mar 11 13:00:29 2022  using multiplier of 3
+Fri Mar 11 13:00:29 2022  using generic 32kb sieve core
+Fri Mar 11 13:00:29 2022  sieve interval: 49 blocks of size 32768
+Fri Mar 11 13:00:29 2022  processing polynomials in batches of 5
+Fri Mar 11 13:00:29 2022  using a sieve bound of 5667359 (196000 primes)
+Fri Mar 11 13:00:29 2022  using large prime bound of 850103850 (29 bits)
+Fri Mar 11 13:00:29 2022  using double large prime bound of 11831765786792400 (45-54 bits)
+Fri Mar 11 13:00:29 2022  using trial factoring cutoff of 54 bits
+Fri Mar 11 13:00:29 2022  polynomial 'A' values have 14 factors
+Fri Mar 11 13:00:47 2022  14 relations (14 full + 0 combined from 1091 partial), need 196096
+Fri Mar 11 13:00:47 2022  elapsed time 00:00:18
+Fri Mar 11 13:00:50 2022  
+Fri Mar 11 13:00:50 2022  
+Fri Mar 11 13:00:50 2022  Msieve v. 1.53 (SVN Unversioned directory)
+Fri Mar 11 13:00:50 2022  random seeds: 3c19163c 6f4d3343
+Fri Mar 11 13:00:50 2022  factoring 2112664634855999140031945945998785346946804826144846396410436155861557104011009549879696604291518474904522547 (109 digits)
+Fri Mar 11 13:00:50 2022  searching for 15-digit factors
+Fri Mar 11 13:00:50 2022  commencing quadratic sieve (109-digit input)
+Fri Mar 11 13:00:50 2022  using multiplier of 3
+Fri Mar 11 13:00:50 2022  using generic 32kb sieve core
+Fri Mar 11 13:00:50 2022  sieve interval: 49 blocks of size 32768
+Fri Mar 11 13:00:50 2022  processing polynomials in batches of 5
+Fri Mar 11 13:00:50 2022  using a sieve bound of 5667359 (196000 primes)
+Fri Mar 11 13:00:50 2022  using large prime bound of 850103850 (29 bits)
+Fri Mar 11 13:00:50 2022  using double large prime bound of 11831765786792400 (45-54 bits)
+Fri Mar 11 13:00:50 2022  using trial factoring cutoff of 54 bits
+Fri Mar 11 13:00:50 2022  polynomial 'A' values have 14 factors
+Fri Mar 11 13:00:50 2022  restarting with 14 full and 1091 partial relations
+Fri Mar 11 13:08:37 2022  522 relations (520 full + 2 combined from 30987 partial), need 196096
+Fri Mar 11 13:08:37 2022  elapsed time 00:07:47
+Fri Mar 11 13:08:41 2022  
+Fri Mar 11 13:08:41 2022  
+Fri Mar 11 13:08:41 2022  Msieve v. 1.53 (SVN Unversioned directory)
+Fri Mar 11 13:08:41 2022  random seeds: 8b8d9938 ce99c8ea
+Fri Mar 11 13:08:41 2022  factoring 2112664634855999140031945945998785346946804826144846396410436155861557104011009549879696604291518474904522547 (109 digits)
+Fri Mar 11 13:08:41 2022  searching for 15-digit factors
+Fri Mar 11 13:08:41 2022  commencing number field sieve (109-digit input)
+Fri Mar 11 13:08:41 2022  commencing number field sieve polynomial selection
+Fri Mar 11 13:08:41 2022  polynomial degree: 4
+Fri Mar 11 13:08:41 2022  max stage 1 norm: 3.29e+18
+Fri Mar 11 13:08:41 2022  max stage 2 norm: 3.34e+16
+Fri Mar 11 13:08:41 2022  min E-value: 1.44e-09
+Fri Mar 11 13:08:41 2022  poly select deadline: 2853
+Fri Mar 11 13:08:41 2022  time limit set to 0.79 CPU-hours
+Fri Mar 11 13:08:41 2022  expecting poly E from 3.46e-09 to > 3.98e-09
+Fri Mar 11 13:08:41 2022  searching leading coefficients from 1 to 354770874
+Fri Mar 11 13:08:44 2022  
+Fri Mar 11 13:08:44 2022  
+Fri Mar 11 13:08:44 2022  Msieve v. 1.53 (SVN Unversioned directory)
+Fri Mar 11 13:08:44 2022  random seeds: 8d59cf3e 9ddd9037
+Fri Mar 11 13:08:44 2022  factoring 2112664634855999140031945945998785346946804826144846396410436155861557104011009549879696604291518474904522547 (109 digits)
+Fri Mar 11 13:08:44 2022  searching for 15-digit factors
+Fri Mar 11 13:08:44 2022  commencing number field sieve (109-digit input)
+Fri Mar 11 13:08:44 2022  commencing number field sieve polynomial selection
+Fri Mar 11 13:08:44 2022  polynomial degree: 4
+Fri Mar 11 13:08:44 2022  max stage 1 norm: 3.29e+18
+Fri Mar 11 13:08:44 2022  max stage 2 norm: 3.34e+16
+Fri Mar 11 13:08:44 2022  min E-value: 1.44e-09
+Fri Mar 11 13:08:44 2022  poly select deadline: 2853
+Fri Mar 11 13:08:44 2022  time limit set to 0.79 CPU-hours
+Fri Mar 11 13:08:44 2022  expecting poly E from 3.46e-09 to > 3.98e-09
+Fri Mar 11 13:08:44 2022  searching leading coefficients from 1 to 354770874
+Fri Mar 11 13:09:08 2022  
+Fri Mar 11 13:09:08 2022  
+Fri Mar 11 13:09:08 2022  Msieve v. 1.53 (SVN Unversioned directory)
+Fri Mar 11 13:09:08 2022  random seeds: b656ce1e 67206326
+Fri Mar 11 13:09:08 2022  factoring 2112664634855999140031945945998785346946804826144846396410436155861557104011009549879696604291518474904522547 (109 digits)
+Fri Mar 11 13:09:08 2022  searching for 15-digit factors
+Fri Mar 11 13:09:08 2022  commencing quadratic sieve (109-digit input)
+Fri Mar 11 13:09:08 2022  using multiplier of 3
+Fri Mar 11 13:09:08 2022  using generic 32kb sieve core
+Fri Mar 11 13:09:08 2022  sieve interval: 49 blocks of size 32768
+Fri Mar 11 13:09:08 2022  processing polynomials in batches of 5
+Fri Mar 11 13:09:08 2022  using a sieve bound of 5667359 (196000 primes)
+Fri Mar 11 13:09:08 2022  using large prime bound of 850103850 (29 bits)
+Fri Mar 11 13:09:08 2022  using double large prime bound of 11831765786792400 (45-54 bits)
+Fri Mar 11 13:09:08 2022  using trial factoring cutoff of 54 bits
+Fri Mar 11 13:09:08 2022  polynomial 'A' values have 14 factors
+Fri Mar 11 13:09:08 2022  restarting with 520 full and 30987 partial relations
+Fri Mar 11 13:11:23 2022  663 relations (658 full + 5 combined from 39820 partial), need 196096
+Fri Mar 11 13:11:23 2022  elapsed time 00:02:15
+Fri Mar 11 13:13:08 2022  
+Fri Mar 11 13:13:08 2022  
+Fri Mar 11 13:13:08 2022  Msieve v. 1.53 (SVN Unversioned directory)
+Fri Mar 11 13:13:08 2022  random seeds: 9c1b4d7a 3de72a64
+Fri Mar 11 13:13:08 2022  factoring 2112664634855999140031945945998785346946804826144846396410436155861557104011009549879696604291518474904522547 (109 digits)
+Fri Mar 11 13:13:08 2022  searching for 15-digit factors
+Fri Mar 11 13:13:08 2022  commencing number field sieve (109-digit input)
+Fri Mar 11 13:13:08 2022  commencing number field sieve polynomial selection
+Fri Mar 11 13:13:08 2022  polynomial degree: 4
+Fri Mar 11 13:13:08 2022  max stage 1 norm: 3.29e+18
+Fri Mar 11 13:13:08 2022  max stage 2 norm: 3.34e+16
+Fri Mar 11 13:13:08 2022  min E-value: 1.44e-09
+Fri Mar 11 13:13:08 2022  poly select deadline: 2853
+Fri Mar 11 13:13:08 2022  time limit set to 0.79 CPU-hours
+Fri Mar 11 13:13:08 2022  expecting poly E from 3.46e-09 to > 3.98e-09
+Fri Mar 11 13:13:08 2022  searching leading coefficients from 1 to 354770874
+Fri Mar 11 13:14:35 2022  
+Fri Mar 11 13:14:35 2022  
+Fri Mar 11 13:14:35 2022  Msieve v. 1.53 (SVN Unversioned directory)
+Fri Mar 11 13:14:35 2022  random seeds: beaad874 9e0392fb
+Fri Mar 11 13:14:35 2022  factoring 2112664634855999140031945945998785346946804826144846396410436155861557104011009549879696604291518474904522547 (109 digits)
+Fri Mar 11 13:14:35 2022  searching for 15-digit factors
+Fri Mar 11 13:14:35 2022  commencing quadratic sieve (109-digit input)
+Fri Mar 11 13:14:35 2022  using multiplier of 3
+Fri Mar 11 13:14:35 2022  using generic 32kb sieve core
+Fri Mar 11 13:14:35 2022  sieve interval: 49 blocks of size 32768
+Fri Mar 11 13:14:35 2022  processing polynomials in batches of 5
+Fri Mar 11 13:14:35 2022  using a sieve bound of 5667359 (196000 primes)
+Fri Mar 11 13:14:35 2022  using large prime bound of 850103850 (29 bits)
+Fri Mar 11 13:14:35 2022  using double large prime bound of 11831765786792400 (45-54 bits)
+Fri Mar 11 13:14:35 2022  using trial factoring cutoff of 54 bits
+Fri Mar 11 13:14:35 2022  polynomial 'A' values have 14 factors
+Fri Mar 11 13:14:35 2022  restarting with 658 full and 39820 partial relations
+Fri Mar 11 13:25:41 2022  1367 relations (1343 full + 24 combined from 81597 partial), need 196096
+Fri Mar 11 13:25:41 2022  elapsed time 00:11:06
+Fri Mar 11 13:29:56 2022  
+Fri Mar 11 13:29:56 2022  
+Fri Mar 11 13:29:56 2022  Msieve v. 1.53 (SVN Unversioned directory)
+Fri Mar 11 13:29:56 2022  random seeds: e7c3acb3 803a4896
+Fri Mar 11 13:29:56 2022  factoring 2112664634855999140031945945998785346946804826144846396410436155861557104011009549879696604291518474904522547 (109 digits)
+Fri Mar 11 13:29:56 2022  searching for 15-digit factors
+Fri Mar 11 13:29:57 2022  commencing quadratic sieve (109-digit input)
+Fri Mar 11 13:29:57 2022  using multiplier of 3
+Fri Mar 11 13:29:57 2022  using generic 32kb sieve core
+Fri Mar 11 13:29:57 2022  sieve interval: 49 blocks of size 32768
+Fri Mar 11 13:29:57 2022  processing polynomials in batches of 5
+Fri Mar 11 13:29:57 2022  using a sieve bound of 5667359 (196000 primes)
+Fri Mar 11 13:29:57 2022  using large prime bound of 850103850 (29 bits)
+Fri Mar 11 13:29:57 2022  using double large prime bound of 11831765786792400 (45-54 bits)
+Fri Mar 11 13:29:57 2022  using trial factoring cutoff of 54 bits
+Fri Mar 11 13:29:57 2022  polynomial 'A' values have 14 factors
+Fri Mar 11 13:29:57 2022  restarting with 1343 full and 81597 partial relations
+Fri Mar 11 14:22:13 2022  4424 relations (4122 full + 302 combined from 252440 partial), need 196096
+Fri Mar 11 14:22:13 2022  elapsed time 00:52:17
+Tue Mar 15 19:57:11 2022  
+Tue Mar 15 19:57:11 2022  
+Tue Mar 15 19:57:11 2022  Msieve v. 1.53 (SVN Unversioned directory)
+Tue Mar 15 19:57:11 2022  random seeds: f9c80d41 afb8d27a
+Tue Mar 15 19:57:11 2022  factoring 2112664634855999140031945945998785346946804826144846396410436155861557104011009549879696604291518474904522547 (109 digits)
+Tue Mar 15 19:57:11 2022  searching for 15-digit factors
+Tue Mar 15 19:57:11 2022  commencing quadratic sieve (109-digit input)
+Tue Mar 15 19:57:11 2022  using multiplier of 3
+Tue Mar 15 19:57:11 2022  using generic 32kb sieve core
+Tue Mar 15 19:57:11 2022  sieve interval: 49 blocks of size 32768
+Tue Mar 15 19:57:11 2022  processing polynomials in batches of 5
+Tue Mar 15 19:57:11 2022  using a sieve bound of 5667359 (196000 primes)
+Tue Mar 15 19:57:11 2022  using large prime bound of 850103850 (29 bits)
+Tue Mar 15 19:57:11 2022  using double large prime bound of 11831765786792400 (45-54 bits)
+Tue Mar 15 19:57:11 2022  using trial factoring cutoff of 54 bits
+Tue Mar 15 19:57:11 2022  polynomial 'A' values have 14 factors
+Tue Mar 15 19:57:11 2022  restarting with 4122 full and 252440 partial relations
+Tue Mar 15 19:57:19 2022  4430 relations (4127 full + 303 combined from 252937 partial), need 196096
+Tue Mar 15 19:57:19 2022  elapsed time 00:00:08
